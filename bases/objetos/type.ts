@@ -21,7 +21,7 @@
         getName() { 
             return this.name;
         }
-
+ 
     } 
 
 })();
