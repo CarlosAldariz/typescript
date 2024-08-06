@@ -9,3 +9,4 @@
     error('Mensaje de error');
     console.log('ola Mundo');
 })();
+//# sourceMappingURL=never.js.map

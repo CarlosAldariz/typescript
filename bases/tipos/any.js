@@ -9,3 +9,4 @@
     console.log(avenger.toFixed(2));
     console.log(exists);
 })();
+//# sourceMappingURL=any.js.map

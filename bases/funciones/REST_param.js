@@ -7,3 +7,4 @@
     console.log({ nombre });
 })();
 //funcion anonima autoinvocada
+//# sourceMappingURL=REST_param.js.map

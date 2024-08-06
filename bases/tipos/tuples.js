@@ -7,3 +7,4 @@
     console.log(hero);
 })();
 //funcion anonima autoinvocada
+//# sourceMappingURL=tuples.js.map

@@ -6,3 +6,4 @@
     const name = fullName('Primer');
     console.log({ name });
 })();
+//# sourceMappingURL=args_optional.js.map

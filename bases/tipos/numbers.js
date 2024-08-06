@@ -11,3 +11,4 @@
     }
     //en javascript NaN es considerado del tipo number
 })();
+//# sourceMappingURL=numbers.js.map

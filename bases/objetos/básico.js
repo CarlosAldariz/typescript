@@ -11,3 +11,4 @@
         capacidades: ['rata de biblioteca']
     };
 })();
+//# sourceMappingURL=b%C3%A1sico.js.map

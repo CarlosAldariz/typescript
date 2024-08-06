@@ -25,3 +25,4 @@
         console.log("getNombre is undefined");
     }
 })();
+//# sourceMappingURL=obj_tipos_especificos.js.map

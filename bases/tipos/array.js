@@ -6,3 +6,4 @@
     const villains = ["redskull", "wolf"];
     villains.forEach(v => console.log(v.toUpperCase()));
 })();
+//# sourceMappingURL=array.js.map

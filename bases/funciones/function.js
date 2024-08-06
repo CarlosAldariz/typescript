@@ -9,3 +9,4 @@
     };
     console.log(typeof mensaje);
 })();
+//# sourceMappingURL=function.js.map

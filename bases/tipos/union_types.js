@@ -10,3 +10,4 @@
         powers: [1, 2, 3],
     };
 })();
+//# sourceMappingURL=union_types.js.map

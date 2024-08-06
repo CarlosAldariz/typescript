@@ -12,3 +12,4 @@
     console.log({ name: name });
 })();
 //funcion anonima autoinvocada
+//# sourceMappingURL=args-default.js.map

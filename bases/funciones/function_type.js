@@ -9,3 +9,4 @@
     myfunction = greet;
     console.log(myfunction('Juan'));
 })();
+//# sourceMappingURL=function_type.js.map

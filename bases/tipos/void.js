@@ -9,3 +9,4 @@
     const a = vacia();
     console.log(a);
 })();
+//# sourceMappingURL=void.js.map
