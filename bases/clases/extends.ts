@@ -25,4 +25,4 @@ class Xmen extends Avenger {
 
 } 
 
-const wolverine = new Xmen('wolverine', 'Logan', true);
+const wolverine = new Xmen('wolverine', 'Logan', true); 
